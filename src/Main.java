@@ -6,5 +6,8 @@ public class Main {
         String name = scanner.nextLine();
         String str = "Hello " + name;
         System.out.println(str);
-    }
+        System.out.println(str);
+        System.out.println(str);
+
+    }`
 }
